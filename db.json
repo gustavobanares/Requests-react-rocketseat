@@ -1,12 +1,20 @@
 {
-    "users": [
-        {
-            "id": "gu",
-            "name": "Gustavo"
-        },
-        {
-            "id": "gui",
-            "name": "Guilherme"
-        }
-    ]
+  "users": [
+    {
+      "id": "gu",
+      "name": "Gustavo"
+    },
+    {
+      "id": "gui",
+      "name": "Guilherme"
+    },
+    {
+      "id": "gusta",
+      "name": "Gustavp"
+    },
+    {
+      "id": "teste",
+      "name": "Nome de teste"
+    }
+  ]
 }
